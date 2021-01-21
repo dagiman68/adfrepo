@@ -1,0 +1,7 @@
+﻿Case ID,Status,Case Title,Country,Sev,Service Level,Last Modified Date,Customer Timezone,Total Labor,Task Description
+120121426004371,Waiting for Confirmation,require support understanding encryption of column data,IN,B,Premier,1/11/2021 19:53,India Standard Time,10h 16m ,
+120121625000387,,ADW biadwedwd01 stuck scaling,DE,B,Professional,1/4/2021 12:08,Central Europe Standard Time,0m ,"ASA Follow up:
+Main ask is to follow up with PG and try to get issue mitigated / Fix Today"
+121010521000604,Troubleshooting,Performance Issue - SQLs are running long/forever,US,B,Premier,1/11/2021 19:54,Pacific Standard Time,4h 14m ,
+121010625001341,Waiting for Confirmation,unknown cause of this unavailability,DE,C,Professional,1/12/2021 1:43,Central Europe Standard Time,9h 31m ,
+121010726003913,Troubleshooting,Distributed query failed,IN,C,Premier,1/12/2021 13:06,India Standard Time,5h 45m ,
